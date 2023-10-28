@@ -1,22 +1,5 @@
-# ThunderStore Mod Upload Template
+# Krumpac Reforge Spawners
 
-Replace me: this is a template repo for ThunderStore mod uploads
+This mod contains the spawner configurations for [Krumpac Reforge Core](https://valheim.thunderstore.io/package/Krumpac/Krumpac_Reforge_Core/) mod pack (which requires registration!). Spawners cannot be used without the Core's other DLLs.
 
-## Features
-
-* List your features here
-
-# Miscellaneous
-
-<details>
-  <summary>Attributions</summary>
-
-* icon -> https://www.flaticon.com/free-icons/replace
-</details>
-
-<details>
-  <summary>Contact</summary>
-
-* https://github.com/FelixReuthlinger/ThunderStoreTemplate
-* Discord: Flux#0062 (you can find me around some of the Valheim modding discords, too)
-</details>
+See that mod's detailed description in Readme.
