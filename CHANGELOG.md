@@ -1,3 +1,5 @@
+* 3.1.2 ->
+  * reduced deer spawn rates
 * 3.1.1 -> 
   * increased urchin spawn chances
   * decreased deer (stag/doe/fawn) spawn rates
