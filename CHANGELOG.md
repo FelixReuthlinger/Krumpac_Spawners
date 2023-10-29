@@ -1,3 +1,6 @@
+* 3.1.1 -> 
+  * increased urchin spawn chances
+  * decreased deer (stag/doe/fawn) spawn rates
 * 3.1.0 ->
   * also added the custom raids in this mod (since already missing in core)
 * 3.0.0 -> 
