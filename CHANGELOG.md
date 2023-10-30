@@ -1,3 +1,5 @@
+* 3.2.0 ->
+  * added drop that to reconfigure some drops
 * 3.1.2 ->
   * reduced deer spawn rates
 * 3.1.1 -> 
