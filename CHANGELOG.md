@@ -1,3 +1,8 @@
+* 3.2.1 -> 
+  * improved resin drop, fixed oak to drop fine wood
+  * slightly increased deer spawn
+  * slightly adopted boar and deer carcass drops
+  * slightly increased hay spawn
 * 3.2.0 ->
   * added drop that to reconfigure some drops
 * 3.1.2 ->
