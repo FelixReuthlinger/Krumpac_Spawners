@@ -1,3 +1,5 @@
+* 3.2.4 ->
+  * increased greydwarf eye drops
 * 3.2.3 ->
   * changed drop that config option to load updates on the fly
   * increased carcass drop for deers
