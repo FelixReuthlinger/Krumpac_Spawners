@@ -1,3 +1,6 @@
+* 3.2.3 ->
+  * changed drop that config option to load updates on the fly
+  * increased carcass drop for deers
 * 3.2.2 ->
   * added deer meat drop to deers, since otherwise only carcass would yield meat
   * increased chances for custom sounds to spawn
