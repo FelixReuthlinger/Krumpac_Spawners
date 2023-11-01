@@ -1,3 +1,7 @@
+* 3.2.2 ->
+  * added deer meat drop to deers, since otherwise only carcass would yield meat
+  * increased chances for custom sounds to spawn
+  * increased hay and cotton bushes to spawn
 * 3.2.1 -> 
   * improved resin drop, fixed oak to drop fine wood
   * slightly increased deer spawn
