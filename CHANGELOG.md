@@ -1,3 +1,5 @@
+* 3.2.6 ->
+  * increased hay spawns again
 * 3.2.5 ->
   * deactivated the config live reload functionality of drop that and custom raids - this was the load time breaker...
 * 3.2.4 ->
