@@ -1,3 +1,5 @@
+* 3.2.7 ->
+  * added Lydit/Flint pickable spawner
 * 3.2.6 ->
   * increased hay spawns again
 * 3.2.5 ->
