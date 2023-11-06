@@ -1,3 +1,6 @@
+* 3.2.8 ->
+  * improved carcass processing drops and lowered animal carcass drops a little
+  * lowered resin drops
 * 3.2.7 ->
   * added Lydit/Flint pickable spawner
 * 3.2.6 ->
