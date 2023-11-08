@@ -1,3 +1,5 @@
+* 3.2.9 ->
+  * further reduced resin drop
 * 3.2.8 ->
   * improved carcass processing drops and lowered animal carcass drops a little
   * lowered resin drops
