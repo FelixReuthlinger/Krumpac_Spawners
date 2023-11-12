@@ -1,3 +1,5 @@
+* 3.2.10 ->
+  * reduced drop for greydwarf trophies
 * 3.2.9 ->
   * further reduced resin drop
 * 3.2.8 ->
