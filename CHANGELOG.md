@@ -1,3 +1,4 @@
+* 3.3.0 -> updated dependencies
 * 3.2.10 ->
   * reduced drop for greydwarf trophies
 * 3.2.9 ->
