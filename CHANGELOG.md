@@ -1,3 +1,6 @@
+* 3.3.1 ->
+  * replacing boars with pigs (dropping boar things)
+  * added ram & sheep & lamb spawn
 * 3.3.0 -> updated dependencies
 * 3.2.10 ->
   * reduced drop for greydwarf trophies
