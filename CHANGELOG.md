@@ -1,3 +1,5 @@
+* 3.3.2 ->
+  * Ram & Sheep & Lamb way more rarely spawn in the wild, but instead at meadows abandoned villages
 * 3.3.1 ->
   * replacing boars with pigs (dropping boar things)
   * added ram & sheep & lamb spawn
