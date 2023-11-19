@@ -1,3 +1,5 @@
+* 3.3.3 ->
+  * further reduced Ram & Sheep & Lamb spawns
 * 3.3.2 ->
   * Ram & Sheep & Lamb way more rarely spawn in the wild, but instead at meadows abandoned villages
 * 3.3.1 ->
