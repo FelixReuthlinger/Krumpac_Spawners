@@ -1,3 +1,6 @@
+* 3.3.4 -> 
+  * further reduced Ram & Sheep & Lamb spawns
+  * small changes on Pig spawners
 * 3.3.3 ->
   * further reduced Ram & Sheep & Lamb spawns
 * 3.3.2 ->
