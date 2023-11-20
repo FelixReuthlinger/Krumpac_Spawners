@@ -1,3 +1,7 @@
+* 3.3.5 ->
+  * adjusted Pig spawners
+    * now also having mal pigs
+    * chances adjusted
 * 3.3.4 -> 
   * further reduced Ram & Sheep & Lamb spawns
   * small changes on Pig spawners
