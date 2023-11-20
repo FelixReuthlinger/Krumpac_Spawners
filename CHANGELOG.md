@@ -1,3 +1,5 @@
+* 3.3.6 ->
+  * male pig now also drop meat, but female ones less carcass than before now
 * 3.3.5 ->
   * adjusted Pig spawners
     * now also having mal pigs
