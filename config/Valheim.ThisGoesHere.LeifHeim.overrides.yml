@@ -1,0 +1,4 @@
+﻿PrintComment: ThisGoesHere overwrites configs with reforge changes
+CopyFile:
+- From: config/overrides/blacks7ar.VikingsDoSwim.cfg
+  To: config/blacks7ar.VikingsDoSwim.cfg

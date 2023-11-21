@@ -1,3 +1,4 @@
+* 3.4.4 -> added reduced swim speed config
 * 3.4.3 -> rat now drop ...
 * 3.4.2 -> even again less pigs
 * 3.4.1 -> set most animals to only spawn during day and despawn during night
