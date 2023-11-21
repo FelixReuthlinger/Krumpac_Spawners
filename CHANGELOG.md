@@ -1,3 +1,4 @@
+* 3.4.1 -> set most animals to only spawn during day and despawn during night
 * 3.4.0 ->
   * quite bigger rework of spawners, added some forgotten spawners, rebalanced spawners
   * added spawners for (new) wild boar to BF
