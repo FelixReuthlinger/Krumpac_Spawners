@@ -1,3 +1,7 @@
+* 3.4.0 ->
+  * quite bigger rework of spawners, added some forgotten spawners, rebalanced spawners
+  * added spawners for (new) wild boar to BF
+  * added drop for (new) wild boar
 * 3.3.6 ->
   * male pig now also drop meat, but female ones less carcass than before now
 * 3.3.5 ->
