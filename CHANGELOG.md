@@ -1,3 +1,4 @@
+* 3.4.6 -> fixed new wild boars to spawn at day (instead night)
 * 3.4.5 -> fixed removing war boar wild to be replaced (was wrong spawner name before)
 * 3.4.4 -> added reduced swim speed config
 * 3.4.3 -> rat now drop ...
