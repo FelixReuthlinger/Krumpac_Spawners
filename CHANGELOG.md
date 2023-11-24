@@ -1,3 +1,4 @@
+* 3.4.10 -> reduced the wild boars at black forest
 * 3.4.9 -> increased copper weapon drop chance
 * 3.4.8 -> increased mountain drops to support progression
 * 3.4.7 -> added Serpent drops to fix resource amounts and make it drop a tropy always
