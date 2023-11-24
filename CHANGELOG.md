@@ -1,3 +1,4 @@
+* 3.4.11 -> reduced troll spawn
 * 3.4.10 -> reduced the wild boars at black forest
 * 3.4.9 -> increased copper weapon drop chance
 * 3.4.8 -> increased mountain drops to support progression
