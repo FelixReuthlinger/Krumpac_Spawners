@@ -1,3 +1,5 @@
+* 3.5.1 -> fixing the draugr elite in loki's lair
+* 3.5.0 -> releasing the new poison skeleton and a new freaky ghost
 * 3.4.12 -> release the krake... erm skeleton :)
 * 3.4.11 -> reduced troll spawn
 * 3.4.10 -> reduced the wild boars at black forest
