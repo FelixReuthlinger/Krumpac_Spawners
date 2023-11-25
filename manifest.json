@@ -1,7 +1,7 @@
 {
   "name": "Krumpac_Spawners",
   "description": "Spawner, drop, and raids configuration for Reforge mod pack (registration required)",
-  "version_number": "3.5.2",
+  "version_number": "3.5.3",
   "website_url": "https://discord.gg/8bNTB7xNrd",
   "dependencies": [
     "ASharpPen-Custom_Raids-1.7.10",
