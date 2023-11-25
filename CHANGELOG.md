@@ -1,3 +1,4 @@
+* 3.5.2 -> there are Shadows ranging through the forests
 * 3.5.1 -> fixing the draugr elite in loki's lair
 * 3.5.0 -> releasing the new poison skeleton and a new freaky ghost
 * 3.4.12 -> release the krake... erm skeleton :)
