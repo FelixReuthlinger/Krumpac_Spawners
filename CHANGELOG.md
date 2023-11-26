@@ -1,3 +1,4 @@
+* 3.6.0 & .1 -> release the blobs
 * 3.5.3 -> increased the create level up chances for most creatures
 * 3.5.2 -> there are Shadows ranging through the forests
 * 3.5.1 -> fixing the draugr elite in loki's lair
