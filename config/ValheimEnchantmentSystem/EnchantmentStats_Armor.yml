@@ -1,0 +1,60 @@
+1:
+  armor_percentage: 2
+  durability_percentage: 2
+2:
+  armor_percentage: 3
+  durability_percentage: 3
+3:
+  armor_percentage: 4
+  durability_percentage: 4
+4:
+  armor_percentage: 5
+  durability_percentage: 5
+5:
+  armor_percentage: 6
+  durability_percentage: 6
+6:
+  armor_percentage: 7
+  durability_percentage: 7
+7:
+  armor_percentage: 9
+  durability_percentage: 9
+8:
+  armor_percentage: 11
+  durability_percentage: 11
+9:
+  armor_percentage: 13
+  durability_percentage: 13
+10:
+  armor_percentage: 15
+  durability_percentage: 15
+11:
+  armor_percentage: 17
+  durability_percentage: 17
+12:
+  armor_percentage: 19
+  durability_percentage: 19
+13:
+  armor_percentage: 22
+  durability_percentage: 22
+14:
+  armor_percentage: 25
+  durability_percentage: 25
+15:
+  armor_percentage: 28
+  durability_percentage: 28
+16:
+  armor_percentage: 31
+  durability_percentage: 31
+17:
+  armor_percentage: 35
+  durability_percentage: 35
+18:
+  armor_percentage: 39
+  durability_percentage: 39
+19:
+  armor_percentage: 44
+  durability_percentage: 44
+20:
+  armor_percentage: 50
+  durability_percentage: 50

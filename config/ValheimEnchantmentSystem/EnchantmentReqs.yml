@@ -1,0 +1,302 @@
+# - enchant_prefab:
+#     prefab: kg_EnchantScroll_Weapon_S
+#     amount: 1
+#   blessed_enchant_prefab:
+#     prefab: kg_EnchantScroll_Weapon_Blessed_S
+#     amount: 1
+#   Items: 
+
+
+# - enchant_prefab:
+#     prefab: kg_EnchantScroll_Armor_S
+#     amount: 1
+#   blessed_enchant_prefab:
+#     prefab: kg_EnchantScroll_Armor_Blessed_S
+#     amount: 1
+#   Items: 
+
+
+- enchant_prefab:
+    prefab: kg_EnchantScroll_Weapon_A
+    amount: 1
+  blessed_enchant_prefab:
+    prefab: kg_EnchantScroll_Weapon_Blessed_A
+    amount: 1
+  Items:
+  - Krump_Wep_Atgeir_Silver
+  - Krump_Wep_BattleAxe_Silver
+  - Krump_Wep_GreatSword_Silver
+  - Krump_Wep_Sledge_Silver
+  - Krump_Wep_Axe_Silver
+  - Krump_Wep_Dagger_Silver
+  - Krump_Wep_Harpoon_Silver
+  - Krump_Wep_Mace_Silver
+  - Krump_Wep_Spear_Silver
+  - Krump_Wep_Sword_Silver
+  - Krump_Wep_Bow_Silver
+  - Krump_Wep_Shield_Small_Silver_1
+  - Krump_Wep_Shield_Small_Silver_2
+  - Krump_Wep_Atgeir_Steel
+  - Krump_Wep_BattleAxe_Steel
+  - Krump_Wep_GreatSword_Steel
+  - Krump_Wep_Sledge_Steel
+  - Krump_Wep_Axe_Steel
+  - Krump_Wep_Dagger_Steel
+  - Krump_Wep_Harpoon_Steel
+  - Krump_Wep_Mace_Steel
+  - Krump_Wep_Spear_Steel
+  - Krump_Wep_Sword_Steel
+  - Krump_Wep_Bow_Steel
+  - Krump_Wep_Shield_Small_Steel_1
+  - Krump_Wep_Shield_Small_Steel_2
+
+
+- enchant_prefab:
+    prefab: kg_EnchantScroll_Armor_A
+    amount: 1
+  blessed_enchant_prefab:
+    prefab: kg_EnchantScroll_Armor_Blessed_A
+    amount: 1
+  Items:
+  - Krump_T1_Armor_Berserkir_Legs
+  - Krump_T2_Armor_Berserkir_Legs
+  - Krump_T3_Armor_Berserkir_Legs
+  - Krump_T1_Armor_Tribe_Legs
+  - Krump_T2_Armor_Tribe_Legs
+  - Krump_T3_Armor_Tribe_Legs
+  - Krump_T1_Armor_Yagluth_Legs
+  - Krump_T2_Armor_Yagluth_Legs
+  - Krump_T3_Armor_Yagluth_Legs
+  - Krump_T1_Armor_Berserkir_Chest
+  - Krump_T2_Armor_Berserkir_Chest
+  - Krump_T3_Armor_Berserkir_Chest
+  - Krump_T1_Armor_Tribe_Chest
+  - Krump_T2_Armor_Tribe_Chest
+  - Krump_T3_Armor_Tribe_Chest
+  - Krump_T1_Armor_Yagluth_Chest
+  - Krump_T2_Armor_Yagluth_Chest
+  - Krump_T3_Armor_Yagluth_Chest
+  - Krump_T1_Armor_Berserkir_Helmet
+  - Krump_T2_Armor_Berserkir_Helmet
+  - Krump_T3_Armor_Berserkir_Helmet
+  - Krump_T1_Armor_Tribe_Helmet
+  - Krump_T2_Armor_Tribe_Helmet
+  - Krump_T3_Armor_Tribe_Helmet
+  - Krump_T1_Armor_Yagluth_Helmet
+  - Krump_T2_Armor_Yagluth_Helmet
+  - Krump_T3_Armor_Yagluth_Helmet
+
+
+- enchant_prefab:
+    prefab: kg_EnchantScroll_Weapon_B
+    amount: 1
+  blessed_enchant_prefab:
+    prefab: kg_EnchantScroll_Weapon_Blessed_B
+    amount: 1
+  Items:
+  - D_Iron_Butcher
+  - D_Iron_Sickle
+  - D_Iron_Plant_Hoe
+  - Krump_Wep_Pickaxe_Iron3
+  - Krump_Wep_Shovel
+  - Krump_Wep_Bow_Bonemass
+  - Krump_Wep_Atgeir_Iron
+  - Krump_Wep_BattleAxe_Iron
+  - Krump_Wep_GreatSword_Iron
+  - Krump_Wep_Sledge_Iron
+  - Krump_Wep_Axe_Iron
+  - Krump_Wep_Dagger_Iron
+  - Krump_Wep_Harpoon_Iron
+  - Krump_Wep_Mace_Iron
+  - Krump_Wep_Spear_Iron
+  - Krump_Wep_Sword_Iron
+  - Krump_Wep_Bow_Iron
+  - Krump_Wep_Shield_Great_Iron
+  - Krump_Wep_Shield_Small_Iron_1
+  - Krump_Wep_Shield_Small_Iron_2
+  - Krump_Wep_Shield_Tribe_Iron_1
+  - Krump_Wep_Shield_Tribe_Iron_10
+  - Krump_Wep_Shield_Tribe_Iron_11
+  - Krump_Wep_Shield_Tribe_Iron_12
+  - Krump_Wep_Shield_Tribe_Iron_2
+  - Krump_Wep_Shield_Tribe_Iron_3
+  - Krump_Wep_Shield_Tribe_Iron_4
+  - Krump_Wep_Shield_Tribe_Iron_5
+  - Krump_Wep_Shield_Tribe_Iron_6
+  - Krump_Wep_Shield_Tribe_Iron_7
+  - Krump_Wep_Shield_Tribe_Iron_8
+  - Krump_Wep_Shield_Tribe_Iron_9
+  - Krump_Wep_BattleAxe_Chitin
+  - Krump_Wep_GreatSword_Chitin
+  - Krump_Wep_Axe_Chitin
+  - Krump_Wep_Dagger_Chitin
+  - Krump_Wep_Harpoon_Chitin
+  - Krump_Wep_Mace_Chitin
+  - Krump_Wep_Spear_Chitin
+  - Krump_Wep_Sword_Chitin
+  - Krump_Wep_Bow_Chitin
+  - Krump_Wep_Shield_Great_Chitin
+  - Krump_Wep_Shield_Small_Chitin_1
+  - Krump_Wep_Shield_Small_Chitin_2
+
+
+- enchant_prefab:
+    prefab: kg_EnchantScroll_Armor_B
+    amount: 1
+  blessed_enchant_prefab:
+    prefab: kg_EnchantScroll_Armor_Blessed_B
+    amount: 1
+  Items:
+  - Krump_Armor_Cape_Bonemass
+  - Krump_T1_Armor_BoneMass_Legs
+  - Krump_T2_Armor_BoneMass_Legs
+  - Krump_T3_Armor_BoneMass_Legs
+  - Krump_T1_Armor_BoneMass_Chest
+  - Krump_T2_Armor_BoneMass_Chest
+  - Krump_T3_Armor_BoneMass_Chest
+  - Krump_T1_Armor_BoneMass_Helmet
+  - Krump_T2_Armor_BoneMass_Helmet
+  - Krump_T3_Armor_BoneMass_Helmet
+
+
+- enchant_prefab:
+    prefab: kg_EnchantScroll_Weapon_C
+    amount: 1
+  blessed_enchant_prefab:
+    prefab: kg_EnchantScroll_Weapon_Blessed_C
+    amount: 1
+  Items:
+  - D_Bronze_Butcher
+  - D_Finewood_Sickle
+  - D_Iproved_Butcher
+  - D_FineWood_Plant_Hoe
+  - Krump_Wep_Pickaxe_Bronze2
+  - Krump_Wep_Atgeir_Bronze
+  - Krump_Wep_BattleAxe_Bronze
+  - Krump_Wep_GreatSword_Bronze
+  - Krump_Wep_Sledge_Bronze
+  - Krump_Wep_Axe_Bronze
+  - Krump_Wep_Dagger_Bronze
+  - Krump_Wep_Harpoon_Bronze
+  - Krump_Wep_Mace_Bronze
+  - Krump_Wep_Spear_Bronze
+  - Krump_Wep_Sword_Bronze
+  - Krump_Wep_Bow_Bronze
+  - Krump_Wep_Shield_Great_Bronze
+  - Krump_Wep_Shield_Small_Bronze_1
+  - Krump_Wep_Shield_Small_Bronze_2
+  - Krump_Wep_Axe_Copper
+  - Krump_Wep_Dagger_Copper
+  - Krump_Wep_Harpoon_Copper
+  - Krump_Wep_Mace_Copper
+  - Krump_Wep_Spear_Copper
+  - Krump_Wep_Sword_Copper
+  - Krump_Wep_BattleAxe_Copper
+  - Krump_Wep_GreatSword_Copper
+  - Krump_Wep_Sledge_Copper
+  - Krump_Wep_Bow_Copper
+  - Krump_Wep_Shield_Great_Copper
+  - Krump_Wep_Shield_Small_Copper_1
+  - Krump_Wep_Shield_Small_Copper_2
+
+
+- enchant_prefab:
+    prefab: kg_EnchantScroll_Armor_C
+    amount: 1
+  blessed_enchant_prefab:
+    prefab: kg_EnchantScroll_Armor_Blessed_C
+    amount: 1
+  Items:
+  - Krump_Armor_Belt_Troll
+  - Krump_T1_Armor_Troll_Legs
+  - Krump_T2_Armor_Troll_Legs
+  - Krump_T3_Armor_Troll_Legs
+  - Krump_T1_Armor_Bronze_Legs
+  - Krump_T2_Armor_Bronze_Legs
+  - Krump_T3_Armor_Bronze_Legs
+  - Krump_T1_Armor_Troll_Chest
+  - Krump_T2_Armor_Troll_Chest
+  - Krump_T3_Armor_Troll_Chest
+  - Krump_T1_Armor_Bronze_Chest
+  - Krump_T2_Armor_Bronze_Chest
+  - Krump_T3_Armor_Bronze_Chest
+  - Krump_T1_Armor_Troll_Helmet
+  - Krump_T2_Armor_Troll_Helmet
+  - Krump_T3_Armor_Troll_Helmet
+  - Krump_T1_Armor_Bronze_Helmet
+  - Krump_T2_Armor_Bronze_Helmet
+  - Krump_T3_Armor_Bronze_Helmet
+
+
+- enchant_prefab:
+    prefab: kg_EnchantScroll_Weapon_D
+    amount: 1
+  blessed_enchant_prefab:
+    prefab: kg_EnchantScroll_Weapon_Blessed_D
+    amount: 1
+  Items:
+  - Krump_Wep_Pickaxe_Antler2
+  - Krump_Wep_FishingRod_03
+  - Krump_Wep_FishingRod_04
+  - Krump_Wep_Knife_Butcher
+  - D_Stone_Butcher
+  - D_Stone_Sickle
+  - D_Primitive_Plant_Hoe
+  - Krump_Wep_Sledge_Stagbreaker
+  - Krump_Wep_Mace_Wooden_Club
+  - Krump_Wep_Bow
+  - Krump_Wep_Shield_Small_Wood
+  - Krump_Wep_Atgeir_Lydit
+  - Krump_Wep_BattleAxe_Lydit
+  - Krump_Wep_GreatSword_Lydit
+  - Krump_Wep_Axe_Lydit
+  - Krump_Wep_Dagger_Lydit
+  - Krump_Wep_Mace_Lydit
+  - Krump_Wep_Spear_Lydit
+  - Krump_Wep_Sword_Lydit
+  - Krump_Wep_Bow_Lydit
+  - Krump_Wep_Shield_Great_Lydit
+  - Krump_Wep_Shield_Small_Lydit
+  - Krump_Wep_Atgeir_Bone
+  - Krump_Wep_BattleAxe_Bone
+  - Krump_Wep_GreatSword_Bone
+  - Krump_Wep_Axe_Bone
+  - Krump_Wep_Dagger_Bone
+  - Krump_Wep_Harpoon_Bone
+  - Krump_Wep_Mace_Bone
+  - Krump_Wep_Spear_Bone
+  - Krump_Wep_Sword_Bone
+  - Krump_Wep_Bow_Bone
+  - Krump_Wep_Shield_Great_Bone
+  - Krump_Wep_Shield_Small_Bone_1
+  - Krump_Wep_Shield_Small_Bone_2
+
+
+- enchant_prefab:
+    prefab: kg_EnchantScroll_Armor_D
+    amount: 1
+  blessed_enchant_prefab:
+    prefab: kg_EnchantScroll_Armor_Blessed_D
+    amount: 1
+  Items:
+  - Krump_Armor_Belt_Leather
+  - Krump_Armor_Cape_Leather
+  - Krump_T1_Armor_Boar_Legs
+  - Krump_T1_Armor_Deer_Legs
+  - Krump_T2_Armor_Boar_Legs
+  - Krump_T2_Armor_Deer_Legs
+  - Krump_T3_Armor_Boar_Legs
+  - Krump_T3_Armor_Eikthyr_Legs
+  - Krump_T1_Armor_Boar_Chest
+  - Krump_T1_Armor_Deer_Chest
+  - Krump_T2_Armor_Boar_Chest
+  - Krump_T2_Armor_Deer_Chest
+  - Krump_T3_Armor_Boar_Chest
+  - Krump_T3_Armor_Eikthyr_Chest
+  - Krump_T1_Armor_Boar_Helmet
+  - Krump_T1_Armor_Deer_Helmet
+  - Krump_T2_Armor_Boar_Helmet
+  - Krump_T2_Armor_Deer_Helmet
+  - Krump_T3_Armor_Boar_Helmet
+  - Krump_T3_Armor_Eikthyr_Helmet
+

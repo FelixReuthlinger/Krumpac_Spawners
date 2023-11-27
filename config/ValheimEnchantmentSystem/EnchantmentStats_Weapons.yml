@@ -1,0 +1,62 @@
+1:
+  damage_percentage: 2
+  durability_percentage: 5
+2:
+  damage_percentage: 4
+  durability_percentage: 10
+3:
+  damage_percentage: 6
+  durability_percentage: 15
+4:
+  damage_percentage: 8
+  durability_percentage: 20
+5:
+  damage_percentage: 10
+  durability_percentage: 25
+6:
+  damage_percentage: 12
+  durability_percentage: 30
+7:
+  damage_percentage: 16
+  durability_percentage: 35
+8:
+  damage_percentage: 20
+  durability_percentage: 40
+9:
+  damage_percentage: 24
+  durability_percentage: 45
+10:
+  damage_percentage: 28
+  durability_percentage: 50
+11:
+  damage_percentage: 32
+  durability_percentage: 55
+12:
+  damage_percentage: 36
+  durability_percentage: 60
+13:
+  damage_percentage: 40
+  durability_percentage: 65
+14:
+  damage_percentage: 45
+  durability_percentage: 70
+15:
+  damage_percentage: 50
+  durability_percentage: 75
+16:
+  damage_percentage: 55
+  durability_percentage: 80
+17:
+  damage_percentage: 60
+  durability_percentage: 85
+18:
+  damage_percentage: 70
+  durability_percentage: 90
+19:
+  damage_percentage: 85
+  durability_percentage: 95
+20:
+  damage_percentage: 100
+  durability_percentage: 100
+
+

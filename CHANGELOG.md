@@ -1,3 +1,4 @@
+* 4.0.0 -> adding KG's Valheim Enchantment System to Reforge
 * 3.6.0 & .1 -> release the blobs
 * 3.5.3 -> increased the create level up chances for most creatures
 * 3.5.2 -> there are Shadows ranging through the forests
