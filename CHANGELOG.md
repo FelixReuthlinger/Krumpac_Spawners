@@ -1,3 +1,4 @@
+* 4.0.2 -> decreased pigs at pig rune stone
 * 4.0.1 -> work around fixed the non working item managers to not be able to craft blessed scrolls
 * 4.0.0 -> adding KG's Valheim Enchantment System to Reforge
 * 3.6.0 & .1 -> release the blobs
