@@ -1,3 +1,4 @@
+* 4.1.1 -> turned off S/F recipes, since anyways useless currently
 * 4.1.0 -> don't you dare ranging out at night at meadows :P
 * 4.0.2 -> decreased pigs at pig rune stone
 * 4.0.1 -> work around fixed the non working item managers to not be able to craft blessed scrolls
