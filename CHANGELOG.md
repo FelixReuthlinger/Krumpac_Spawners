@@ -1,3 +1,4 @@
+* 4.1.3 -> removed respawn timer at boar runstone, will get less boars
 * 4.1.2 -> fixed the forgotten ghost to vanish into the shadows
 * 4.1.1 -> turned off S/F recipes, since anyways useless currently
 * 4.1.0 -> don't you dare ranging out at night at meadows :P
