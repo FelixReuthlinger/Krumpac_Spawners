@@ -1,3 +1,5 @@
+* 4.2.2 -> less greydwarf trophies
+* 4.2.1 -> more shadow please
 * 4.2.0 -> and more necks
 * 4.1.4 -> removed all respawn timers, less less less monsters, are you going to complain now, that it is too boring?
 * 4.1.3 -> removed respawn timer at boar runstone, will get less boars
