@@ -1,3 +1,4 @@
+* 4.2.0 -> and more necks
 * 4.1.4 -> removed all respawn timers, less less less monsters, are you going to complain now, that it is too boring?
 * 4.1.3 -> removed respawn timer at boar runstone, will get less boars
 * 4.1.2 -> fixed the forgotten ghost to vanish into the shadows
