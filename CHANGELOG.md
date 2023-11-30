@@ -1,3 +1,4 @@
+* 4.2.3 -> added angry neck drops (forgot before)
 * 4.2.2 -> less greydwarf trophies
 * 4.2.1 -> more shadow please
 * 4.2.0 -> and more necks
