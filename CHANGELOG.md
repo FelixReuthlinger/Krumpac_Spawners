@@ -1,3 +1,4 @@
+* 4.2.4 -> hunting shadows
 * 4.2.3 -> added angry neck drops (forgot before)
 * 4.2.2 -> less greydwarf trophies
 * 4.2.1 -> more shadow please
