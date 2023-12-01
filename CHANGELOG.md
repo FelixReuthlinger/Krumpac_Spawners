@@ -1,3 +1,4 @@
+* 4.3.1 -> added empty AzuAutoStore.yml to this, even if not using the dependency this might help to override some of AzuAutoStore default configs that are conflicting with Reforge using tankards as sword types
 * 4.3.0 -> You not gonna believe it :D
 * 4.2.4 -> hunting shadows
 * 4.2.3 -> added angry neck drops (forgot before)

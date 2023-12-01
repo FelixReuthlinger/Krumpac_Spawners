@@ -1,0 +1,4 @@
+# we do not need to actually configure much here, just remove some of the default configs to not conflict with reforge mod pack
+groups:
+  wood: # Group name
+    - Wood
